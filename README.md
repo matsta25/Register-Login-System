@@ -13,4 +13,6 @@ To run it, follow this steps:
     
     to to match with your adress, username and password. Live the registration alone :) (this is name of db).
 
+ Just open <strong>index.php</strong>.
+
  Now it should work fine.
