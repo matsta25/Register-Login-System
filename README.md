@@ -11,6 +11,6 @@ To run it, follow this steps:
     - server.php :
       $db = mysqli_connect('localhost', 'root', '', 'registration');
     
-    to to match with your adress, username and password.
+    to to match with your adress, username and password. Live the registration alone :) (this is name of db).
 
  Now it should work fine.
