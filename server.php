@@ -70,7 +70,7 @@ if (isset($_POST['register'])) {
 	echo "Password strength: " . $password_sec . "%";
 	echo "<br>";
 	echo "Conditions: " . $conditionsMeet . "/4";
-?>
+    ?>
 	*/
 	if (!empty($password)) {
         array_push($pass_stats,"Password strength: " . $password_sec . "%");
